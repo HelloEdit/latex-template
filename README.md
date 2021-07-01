@@ -9,7 +9,7 @@
 ### Features
 
 - Use cmake with [`UseLATEX.cmake`](https://gitlab.kitware.com/kmorel/UseLATEX)
-- Out-of-the-box Multi-file LaTeX projects (with `subfiles`)
+- Out-of-the-box multi-file LaTeX projects (with `subfiles`)
 - Mathematical writing oriented (support of `asmmath`, `asmthm`, `mathtools`...)
 
 ### Structure
@@ -39,7 +39,7 @@
 
 ### Usage
 
-`UseLatex.cmake` is a very powerful tool that allows to abstract the different commands to compile a latex file. Regarding features (enabling BibLaTeX...) or compatibility (especially for Windows users), please refer [to the manual](https://gitlab.kitware.com/kmorel/UseLATEX/-/blob/master/UseLATEX.pdf)
+`UseLatex.cmake` is a very powerful tool that allows to abstract the different commands to compile a latex file. Regarding features (enabling BibLaTeX...) or compatibility (especially for Windows users), please refer [to the manual](https://gitlab.kitware.com/kmorel/UseLATEX/-/blob/master/UseLATEX.pdf).
 
 #### Requirements
 
